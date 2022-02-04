@@ -1,0 +1,88 @@
+html{
+    font-family: sans-serif ;
+text-align: center;
+
+
+    
+}
+
+body{
+
+    background-image: url("background-theme.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.header{
+    font-size: 40px;
+    
+    text-decoration: none;
+    margin-top: auto;
+}
+
+
+a:link{
+    text-decoration: none;
+    
+}
+a{
+        color: white;
+        border: 2px hidden;
+        width: 360px;
+        display: inline-block;
+        float: left;
+}
+
+a:hover{
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+}
+video{
+    width:600;
+    height:450;
+    border: 10px hidden;
+    box-shadow: 8px -3px 9px  rgb(30, 119, 253), -7px 10px 12px  rgba(255, 19, 70, 0.699);
+    margin-left: 100px;
+    margin-left:  100px;
+    border-radius: 20px;
+
+     
+}
+
+img{
+    width:600;
+    height:450;
+    border: 10px hidden;
+    box-shadow: 8px -3px 9px  rgb(30, 119, 253), -7px 10px 12px  rgba(255, 19, 70, 0.699);
+    margin-left: 55px;
+    border-radius: 20px;
+    
+
+
+}
+
+form{
+    font-size: 32px;
+
+
+}
+input{
+    font-size:32px;
+    margin-left:150px ;
+    margin-right: 150px;
+    border: 10px hidden;
+    box-shadow: 8px -3px 9px  rgb(30, 119, 253), -7px 10px 12px  rgba(255, 19, 70, 0.699);
+    border-radius: 20px;
+    
+}
+
+img.a{
+    width: 200;
+    height: 200;
+    margin-left:250 ;
+    margin-right: 250;
+    background-color: white;
+    border-radius: 20px;
+}
+
